@@ -1,6 +1,5 @@
-## 👋 Hi, I'm BaiMouse
 
- Unity Game Developer |  CS Student @ CCNY  
+### Unity Game Developer |  CS Student @ CCNY  
 
 -  2D / 3D Game Development
 -  Unity (C#), Python, C++, Nodejs
