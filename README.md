@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm BaiMouse
 
-<!--
-**Bai-Mouse/Bai-Mouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Game Developer | 💻 CS Student @ CCNY  
 
-Here are some ideas to get you started:
+- 🔹 2D / 3D Game Development
+- 🔹 Unity (C#), Python, C++, VHDL
+- 🔹 Metroidvania & Systems Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+-  2D Metroidvania Game (Unity)
+-  NPC Training with Reinforcement Learning
+-  Full-Stack Web Projects
+
+📫 Contact: your.email@example.com
